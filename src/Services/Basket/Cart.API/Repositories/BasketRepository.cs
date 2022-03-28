@@ -1,5 +1,5 @@
 ﻿using System;
-using Basket.API.Entities;
+using Cart.API.Entities;
 using Microsoft.Extensions.Caching.Distributed;
 using Newtonsoft.Json;
 
@@ -7,7 +7,7 @@ using Newtonsoft.Json;
 // key: username
 // value: basket 
 
-namespace Basket.API.Repositories
+namespace Cart.API.Repositories
 {
 	public class BasketRepository: IBasketRepository
 	{

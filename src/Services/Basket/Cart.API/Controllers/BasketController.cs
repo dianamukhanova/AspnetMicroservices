@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Net;
-using Basket.API.Entities;
-using Basket.API.Repositories;
+using Cart.API.Entities;
+using Cart.API.Repositories;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Basket.API.Controllers
+namespace Cart.API.Controllers
 {
 	[ApiController]
 	[Route("api/v1/controller")]

@@ -1,7 +1,7 @@
 ﻿using System;
-using Basket.API.Entities;
+using Cart.API.Entities;
 
-namespace Basket.API.Repositories
+namespace Cart.API.Repositories
 {
 	public interface IBasketRepository
 	{

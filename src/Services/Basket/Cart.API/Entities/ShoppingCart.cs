@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Basket.API.Entities
+namespace Cart.API.Entities
 {
 	public class ShoppingCart
 	{
